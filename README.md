@@ -11,7 +11,7 @@ Formulário estático de cadastro
 
 ## Preview
 
-[<img src="./src/imagem/form.gif" alt="gif da tela inicial do projeto formulário">]
+<img src="./src/imagem/form.gif" alt="gif da tela inicial do projeto formulário">
 
 
 Link do site: https://rayane-araujo.github.io/formulario/
